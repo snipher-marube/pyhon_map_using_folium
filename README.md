@@ -4,7 +4,7 @@
 ```source .env/bin/activate```
 
 ### 2. clone the repo
-```git clone https://github.com/snipher-marube/pyhon_map_using_folium.git```
+```git clone https://github.com/snipher-marube/python_map_using_folium.git```
 
 ### 3. change directory to the repo
 ```cd pyhon_map_using_folium```
